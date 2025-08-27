@@ -1,4 +1,4 @@
-import '../interfaces/veiculo.dart';
+import 'package:poo_basico/interfaces/veiculo.dart';
 
 class Carro implements Veiculo {
   final String marca;
